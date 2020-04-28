@@ -1,0 +1,6 @@
+facts:
+  - key: datacenter
+    value: bla
+  - key: time
+    value: /bin/date
+
